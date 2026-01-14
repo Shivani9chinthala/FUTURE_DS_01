@@ -22,12 +22,12 @@ This project analyzes Facebook and Instagram ad campaign performance using Power
 - Conversions
 
 ## 📊 Dashboard Preview
-![Dashboard]("C:\Users\chint\OneDrive\Documents\Facebook Ads.png")
+![Dashboard] ("C:\Users\chint\OneDrive\Documents\Pictures\Facebook Ads.png")
 
 ## 📁 Files Included
-- `dashboard.pbix` – Power BI dashboard file
-- `ad_campaign_data.csv` – Sample dataset
-- `dashboard_preview.png` – Dashboard screenshot
+- `Facebook ADs.pbix` – Power BI dashboard file
+- `data.csv` – Sample dataset
+- `Facebook Ads.png` – Dashboard screenshot
 
 ## 🚀 Skills Gained
 - Marketing Analytics
